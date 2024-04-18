@@ -17,7 +17,7 @@ Specifically, I am interested in:
 ### ⚡News
 * **[March 22, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 
-[![cobra](https://github-readme-stats.vercel.app/api/pin?username=h-zhao1997&repo=cobra&theme=radical)](https://github.com/h-zhao1997/cobra)
+  [![cobra](https://github-readme-stats.vercel.app/api/pin?username=h-zhao1997&repo=cobra&theme=radical)](https://github.com/h-zhao1997/cobra)
 
 * **[March 20, 2024]** A new [paper](https://arxiv.org/abs/2403.13358) about GeRM, a generalist robotic model with the mixture-of-experts architecture and RL training method for quadruped robot, was released. [Project page](https://songwxuan.github.io/GeRM/) has been available. [Video](https://www.youtube.com/watch?v=tjgIxsXW0JU) has been available!
 
