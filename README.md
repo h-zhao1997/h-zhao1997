@@ -15,6 +15,12 @@ Specifically, I am interested in:
 - **Motion Planning and Control for Legged Robots**: developing motion planning and control algorithms for legged robots, including bipedal and quadruped robots, to enable them to perform complex tasks in real-world environments.
 
 ### ⚡News
+* **[July 4, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
+
+* **[June 30, 2024]** One paper ([GeRM](https://arxiv.org/abs/2403.13358)) has been accepted for IROS 2024!
+
+* **[May 14, 2024]** One paper (RL2AC) has been accepted for RSS 2024!
+
 * **[March 22, 2024]** A new [paper](https://arxiv.org/abs/2403.14520) about Cobra, an efficient multi-modal large language model, was released. [Project page](https://sites.google.com/view/cobravlm) has been available. The paper has been featured by [Hugging Face Daily Papers](https://huggingface.co/papers?date=2024-03-22)! [Demo](https://huggingface.co/spaces/han1997/cobra) has been available!
 
   [![cobra](https://github-readme-stats.vercel.app/api/pin?username=h-zhao1997&repo=cobra&theme=radical)](https://github.com/h-zhao1997/cobra)
