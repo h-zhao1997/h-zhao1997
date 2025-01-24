@@ -15,6 +15,12 @@ Specifically, I am interested in:
 - **Motion Planning and Control for Legged Robots**: developing motion planning and control algorithms for legged robots, including bipedal and quadruped robots, to enable them to perform complex tasks in real-world environments.
 
 ### ⚡News
+* **[January 23, 2024]** VLAS, a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
+
+* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program have been accepted for Neurocomputing!
+
+* **[December 10, 2024]** Cobra have been accepted for AAAI-25!
+
 * **[July 4, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
 
 * **[June 30, 2024]** One paper ([GeRM](https://arxiv.org/abs/2403.13358)) has been accepted for IROS 2024!
