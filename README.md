@@ -2,7 +2,7 @@
 
 ![h-zhao1997's github stats](https://github-readme-stats.vercel.app/api?username=h-zhao1997&show_icons=true&theme=tokyonight)
 
-I got my bachelor's and master's degrees in Control Science and Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2020 and 2023, respectively. I am currently a first-year joint Ph.D. student in Computer Science and Technology at Zhejiang University and Westlake University (Machine Intelligence Lab, MiLAB), advised by Prof. Donglin Wang.
+I hold my bachelor's and master's degrees in Control Science and Engineering from Beijing University of Posts and Telecommunications (BUPT) in 2020 and 2023, respectively. I am currently a second-year joint Ph.D. student in Computer Science and Technology at Zhejiang University and Westlake University (Machine Intelligence Lab, MiLAB), advised by Prof. Donglin Wang.
 
 ### 🔭Research Interests
 My current research interests include Embodied Artificial Intelligence, Foundation Models, Reinforcement Learning, and Robotics. 
