@@ -8,20 +8,25 @@ I hold my bachelor's and master's degrees in Control Science and Engineering fro
 My current research interests include Embodied Artificial Intelligence, Foundation Models, Reinforcement Learning, and Robotics. 
 
 Specifically, I am interested in:
-- **Foundation Models for Robotics**: developing efficient and effective foundation models for robotics, including multi-modal large language models and vision-language-action models to enhance the perception and decision-making capabilities of robots.
+- **Foundation Models for Robotics**: developing efficient and effective foundation models for robotics, including multi-modal large language models and vision-language-action models to enhance robots' perception and decision-making capabilities.
 
-- **Scalable Reinforcement Learning Algorithms**: developing reinforcement learning algorithms that can effectively manage large-scale data and model capacity for robotic control. This includes methods such as offline reinforcement learning, imitation learning, and more, with the goal of enabling robots to acquire scalable and generalizable skills.
+- **Scalable Reinforcement Learning Algorithms**: developing reinforcement learning algorithms that can effectively manage large-scale data and model capacity for robotic control. This includes methods such as offline reinforcement learning, imitation learning, and more, to enable robots to acquire scalable and generalizable skills.
 
 - **Motion Planning and Control for Legged Robots**: developing motion planning and control algorithms for legged robots, including bipedal and quadruped robots, to enable them to perform complex tasks in real-world environments.
 
 ### ⚡News
-* **[January 23, 2024]** VLAS, a work about integrating speech instruction as a new modality into VLA, have been accepted for ICLR 2024!
 
-* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program have been accepted for Neurocomputing!
+* **[March 4, 2025]** A new [paper](https://arxiv.org/abs/2503.02310) about accelerating the action decoding process of VLA has been online! Check out the paper and our model PD-VLA!
 
-* **[December 10, 2024]** Cobra have been accepted for AAAI-25!
+* **[January 28, 2025]** Two papers ([QUART-Online](https://arxiv.org/abs/2412.15576) and [MoRE](https://arxiv.org/abs/2503.08007)) have been accepted for ICRA 2025!
 
-* **[July 4, 2024]** Two papers (PiTe and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
+* **[January 23, 2024]** [VLAS](https://arxiv.org/abs/2502.13508), a work about integrating speech instruction as a new modality into VLA, has been accepted for ICLR 2025!
+
+* **[January 9, 2024]** One paper about control theory with my former supervisor during the master's program has been accepted for Neurocomputing!
+
+* **[December 10, 2024]** [Cobra](https://arxiv.org/abs/2403.14520) have been accepted for AAAI-25!
+
+* **[July 4, 2024]** Two papers ([PiTe](https://arxiv.org/abs/2409.07239) and [QUAR-VLA](https://arxiv.org/abs/2312.14457)) have been accepted for ECCV 2024!
 
 * **[June 30, 2024]** One paper ([GeRM](https://arxiv.org/abs/2403.13358)) has been accepted for IROS 2024!
 
